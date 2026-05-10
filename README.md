@@ -1,4 +1,4 @@
-# Diwali-Sales-Data-Analysis - Python Project
+# Diwali-Sales-Data-Analysis - Project(Python)
 **Project Overview**:-
 This project involves an end-to-end Exploratory Data Analysis (EDA) of sales data during the Diwali festival. The primary objective is to analyze customer purchasing behavior across different demographics—such as gender, age, state, and occupation—to help businesses improve their customer experience and drive sales growth through data-driven insights.
 
